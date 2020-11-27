@@ -5,6 +5,7 @@
 
 #include "RegisterEntry.h"
 #include <iostream>
+#include <algorithm>
 #include <sstream>
 #include <map>
 
